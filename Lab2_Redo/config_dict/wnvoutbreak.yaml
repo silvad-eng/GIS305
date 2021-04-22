@@ -1,0 +1,5 @@
+remote_url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQNVBKM7_4EjTvznSL11zTvIOAI1XxHrQxenftQT6H30yyKu2O5GBMfnlGkjJ3RFDuNhlwiNTQjHNPC/pub?output=csv'
+proj_dir: 'C:\Users\chica\Documents\ArcGIS\Projects\WNVOutbreak\WNVOutbreak.gdb'
+data_format: 'GSheet'
+geocoder_prefix_url: 'https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address='
+geocoder_suffix_url: '&benchmark=2020&format=json'
